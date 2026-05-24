@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nadir<br><br>🔭 Working on backend development  <br>👯 Open to web & beginner AI projects  <br>🌱 Learning AI & Data Structures  <br>💬 Ask me about HTML, CSS, JS, C, Python  <br>⚡ Preparing for a massive breakthrough 🚀
+👋 Hi, I'm Faraz<br><br>🔭 Working on backend development  <br>👯 Open to web & beginner AI projects  <br>🌱 Learning AI & Data Structures  <br>💬 Ask me about HTML, CSS, JS, C, Python  <br>⚡ Preparing for a massive breakthrough 🚀
 
 
 ## 🌐 Socials:
